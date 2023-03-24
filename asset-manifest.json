@@ -1,12 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.70a8a5e3.css",
-    "main.js": "/static/js/main.28c58d62.js",
+    "main.js": "/static/js/main.0a405814.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/ariseGroup.mp4": "/static/media/ariseGroup.add8563399e8e4a9ffec.mp4",
     "static/media/arPocketTank.mp4": "/static/media/arPocketTank.fc84291e0154bf3f8346.mp4",
     "static/media/toonybricks.mp4": "/static/media/toonybricks.edd519f4f761485641e1.mp4",
+    "static/media/vrFit.mp4": "/static/media/vrFit.fe22a64497be3ff489d0.mp4",
+    "static/media/cardShuffle.mp4": "/static/media/cardShuffle.d5ae29506c66ad98bae1.mp4",
     "static/media/bowman.mp4": "/static/media/bowman.459a0ecfa39fb381a8e8.mp4",
+    "static/media/mot.mp4": "/static/media/mot.1aa395747764478bd88b.mp4",
+    "static/media/vertexHotToNormalShader.mp4": "/static/media/vertexHotToNormalShader.61f695d4a0f784ecf9c1.mp4",
     "static/media/home-avatar2.png": "/static/media/home-avatar2.6a95fb462d1f54a338be.png",
     "static/media/pepsiDemo.mp4": "/static/media/pepsiDemo.0b916ab4e1e0609028b1.mp4",
     "static/media/home-page2.png": "/static/media/home-page2.217c1fa584a017f2509e.png",
@@ -17,11 +21,11 @@
     "index.html": "/index.html",
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "main.70a8a5e3.css.map": "/static/css/main.70a8a5e3.css.map",
-    "main.28c58d62.js.map": "/static/js/main.28c58d62.js.map",
+    "main.0a405814.js.map": "/static/js/main.0a405814.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.70a8a5e3.css",
-    "static/js/main.28c58d62.js"
+    "static/js/main.0a405814.js"
   ]
 }
