@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.70a8a5e3.css",
-    "main.js": "/static/js/main.0a405814.js",
+    "main.css": "/static/css/main.e387edad.css",
+    "main.js": "/static/js/main.6b3fe09d.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/ariseGroup.mp4": "/static/media/ariseGroup.add8563399e8e4a9ffec.mp4",
     "static/media/arPocketTank.mp4": "/static/media/arPocketTank.fc84291e0154bf3f8346.mp4",
@@ -16,16 +16,16 @@
     "static/media/home-page2.png": "/static/media/home-page2.217c1fa584a017f2509e.png",
     "static/media/melting.mp4": "/static/media/melting.5705251aea8ff31ee3c8.mp4",
     "static/media/VismayRPM.glb": "/static/media/VismayRPM.af98ed56dac548f6c3dc.glb",
-    "static/media/VismayThakerResume.pdf": "/static/media/VismayThakerResume.2c7a77fb6f528b04ca84.pdf",
+    "static/media/VismayThakerResume.pdf": "/static/media/VismayThakerResume.2ad98febef12d9b4e84d.pdf",
     "static/media/holidayExpress.mp4": "/static/media/holidayExpress.05598b36c79af94ea707.mp4",
     "index.html": "/index.html",
-    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
-    "main.70a8a5e3.css.map": "/static/css/main.70a8a5e3.css.map",
-    "main.0a405814.js.map": "/static/js/main.0a405814.js.map",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "main.e387edad.css.map": "/static/css/main.e387edad.css.map",
+    "main.6b3fe09d.js.map": "/static/js/main.6b3fe09d.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.70a8a5e3.css",
-    "static/js/main.0a405814.js"
+    "static/css/main.e387edad.css",
+    "static/js/main.6b3fe09d.js"
   ]
 }
