@@ -40,7 +40,8 @@ function App() {
           <Route path="/About" element={<About />} />
           <Route path="/Resume" element={<Resume />} />
           <Route path="*" element={<Navigate to="/" />} />
-          <Route path="/*" element={<Navigate to="/" />} />
+          {/* <Route path="*" element={<Navigate to="/" />} />
+          <Route path="/*" element={<Navigate to="/" />} /> */}
         </Routes>
         <Footer />
       </div>
