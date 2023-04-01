@@ -7,7 +7,7 @@ import Projects from "./components/Projects/Projects";
 import Footer from "./components/Footer";
 import Resume from "./components/Resume/ResumeNew";
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Route,
   Routes,
   Navigate
@@ -35,13 +35,12 @@ function App() {
         <Navbar />
         <ScrollToTop />
         <Routes>
-          <Route path="/Portfolio" element={<Home />} />
-          <Route path="/Portfolio/Projects" element={<Projects />} />
-          <Route path="/Portfolio/About" element={<About />} />
-          <Route path="/Portfolio/Resume" element={<Resume />} />
-          <Route path="/*" element={<Navigate to="/Portfolio" />} />
-          {/* <Route path="*" element={<Navigate to="/" />} />
-          <Route path="/*" element={<Navigate to="/" />} /> */}
+          <Route path="/" element={<Home />} />
+          <Route path="/Projects" element={<Projects />} />
+          <Route path="/About" element={<About />} />
+          <Route path="/Resume" element={<Resume />} />
+          <Route path="*" element={<Navigate to="/" />} />
+          {/* <Route path="/*" element={<Navigate to="/" />} /> */}
         </Routes>
         <Footer />
       </div>
