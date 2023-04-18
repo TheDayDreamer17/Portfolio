@@ -4,6 +4,8 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import holidayExpress from "../../Assets/Projects/holidayExpress.mp4";
 import melting from "../../Assets/Projects/melting.mp4";
+import fpsGame from "../../Assets/Projects/FpsGame.mp4";
+import GrapplingHookDemo from "../../Assets/Projects/GrapplingHookDemo.mp4";
 import ariseGroup from "../../Assets/Projects/ariseGroup.mp4";
 import pepsiDemo from "../../Assets/Projects/pepsiDemo.mp4";
 import bowman from "../../Assets/Projects/bowman.mp4";
@@ -26,6 +28,28 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={fpsGame}
+              isBlog={false}
+              title="Fps Demo"
+              description="Created a Fps mini game in unity Where you can pick up guns , ammo , potions. There is an inventory System to manage & use the items."
+              ghLink=""
+              demoLink=""
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={GrapplingHookDemo}
+              isBlog={false}
+              title="Fps Grappling Gun"
+              description="Expanded the Fps controller I created before and added grappling gun using spring joint."
+              ghLink=""
+              demoLink=""
+            />
+          </Col>
+
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={melting}
