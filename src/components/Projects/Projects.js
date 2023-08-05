@@ -5,6 +5,7 @@ import Particle from "../Particle";
 import holidayExpress from "../../Assets/Projects/holidayExpress.mp4";
 import melting from "../../Assets/Projects/melting.mp4";
 import fpsGame from "../../Assets/Projects/FpsGame.mp4";
+import spidermanDemo from "../../Assets/Projects/Grappling Task Demo Reel.mp4";
 import GrapplingHookDemo from "../../Assets/Projects/GrapplingHookDemo.mp4";
 import ariseGroup from "../../Assets/Projects/ariseGroup.mp4";
 import pepsiDemo from "../../Assets/Projects/pepsiDemo.mp4";
@@ -34,6 +35,27 @@ function Projects() {
               isBlog={false}
               title="Fps Demo"
               description="Created a Fps mini game in unity Where you can pick up guns , ammo , potions. There is an inventory System to manage & use the items."
+              ghLink=""
+              demoLink=""
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={vertexHotToNormalShader}
+              isBlog={false}
+              title="A Vertex Hot metal To Normal Shader"
+              description="Created a metal burning hot to normal shader effect using mous point position. User uv channels to store color data and manipulate with time."
+              ghLink=""
+              demoLink=""
+            />
+
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={spidermanDemo}
+              isBlog={false}
+              title="Delivery guy got spidey web shooters"
+              description="implemented subtitles in timeline and create a entry cutscene.Here delivery guy delivers parcels going through the city with spidy web shooters."
               ghLink=""
               demoLink=""
             />
@@ -207,17 +229,7 @@ function Projects() {
 
           </Col>
 
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={vertexHotToNormalShader}
-              isBlog={false}
-              title="A Vertex Hot metal To Normal Shader"
-              description="Created a metal burning hot to normal shader effect using mous point position. User uv channels to store color data and manipulate with time."
-              ghLink=""
-              demoLink=""
-            />
 
-          </Col>
 
 
 

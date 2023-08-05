@@ -3,7 +3,6 @@ import Card from "react-bootstrap/Card";
 import Button from "react-bootstrap/Button";
 import { CgWebsite } from "react-icons/cg";
 import { BsGithub } from "react-icons/bs";
-import ReactPlayer from 'react-player/file';
 
 function ProjectCards(props) {
   const renderGithubButton = props.ghLink !== "";
@@ -17,7 +16,13 @@ function ProjectCards(props) {
       }
       {
         !renderImage && (
-          <ReactPlayer url={props.imgPath} loop muted playing width="100%" height="100%" />
+          <video
+            preload="metadata"
+            loop
+            onMouseOver={event => event.target.play()}
+            onMouseOut={event => event.target.pause()}
+            src={`${props.imgPath}`} >
+          </video>
         )
       }
       <Card.Body style={{ zIndex: 2 }}>
