@@ -39,7 +39,7 @@ function NavBar() {
     >
       <Container>
         <h2>
-          <strong className="purple">Unity AR / VR Developer</strong>
+          <strong className="purple">Game Developer</strong>
         </h2>
 
         <Navbar.Toggle
