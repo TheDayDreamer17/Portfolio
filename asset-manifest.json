@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e387edad.css",
-    "main.js": "/static/js/main.d9d21b85.js",
+    "main.js": "/static/js/main.3cdc51f6.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/FpsGame.mp4": "/static/media/FpsGame.9ed8a2a4a9888fe5c28c.mp4",
     "static/media/Grappling Task Demo Reel.mp4": "/static/media/Grappling Task Demo Reel.3c68419cff878e886f67.mp4",
@@ -19,16 +19,16 @@
     "static/media/home-page2.png": "/static/media/home-page2.217c1fa584a017f2509e.png",
     "static/media/melting.mp4": "/static/media/melting.5705251aea8ff31ee3c8.mp4",
     "static/media/VismayRPM.glb": "/static/media/VismayRPM.af98ed56dac548f6c3dc.glb",
-    "static/media/VismayThakerResume.pdf": "/static/media/VismayThakerResume.2ad98febef12d9b4e84d.pdf",
+    "static/media/VismayThakerResume.pdf": "/static/media/VismayThakerResume.fa4297b9348aed1ae835.pdf",
     "static/media/holidayExpress.mp4": "/static/media/holidayExpress.05598b36c79af94ea707.mp4",
     "index.html": "/index.html",
     "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
     "main.e387edad.css.map": "/static/css/main.e387edad.css.map",
-    "main.d9d21b85.js.map": "/static/js/main.d9d21b85.js.map",
+    "main.3cdc51f6.js.map": "/static/js/main.3cdc51f6.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e387edad.css",
-    "static/js/main.d9d21b85.js"
+    "static/js/main.3cdc51f6.js"
   ]
 }
